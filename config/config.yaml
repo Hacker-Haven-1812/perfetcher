@@ -1,0 +1,15 @@
+data:
+  models_path: data/models
+  processed_path: data/processed
+  raw_path: data/raw
+  results_path: data/results
+model:
+  embedding_dim: 64
+  epochs: 30
+  hidden_dim: 128
+  learning_rate: 0.001
+  seq_length: 40
+system:
+  app_name: firefox
+  collect_runs: 10
+  target_app: firefox

@@ -1,0 +1,18 @@
+{
+    "<PAD>": 0,
+    "<UNK>": 1,
+    "/etc/ld.so.cache": 2,
+    "/lib/x86_64-linux-gnu/libc.so.6": 3,
+    "/usr/bin/firefox": 4,
+    "/etc/os-release": 5,
+    "/snap/snapd/current/usr/lib/snapd/info": 6,
+    "/snap/snapd/current/usr/lib/x86_64-linux-gnu/libc.so.6": 7,
+    "/usr/lib/snapd/info": 8,
+    "/snap/snapd/26382/usr/lib/snapd/snapd": 9,
+    "/etc/fstab": 10,
+    "/var/lib/snapd/system-key": 11,
+    "/var/lib/snapd/inhibit/firefox.lock": 12,
+    "/snap/firefox/7766/meta/snap.yaml": 13,
+    "/snap/firefox/7766/meta/hooks": 14,
+    "/var/lib/snapd/sequence/firefox.json": 15
+}

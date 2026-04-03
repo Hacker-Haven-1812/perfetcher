@@ -1,0 +1,58 @@
+{
+    "raw_counts": {
+        "total_prefetches": 0,
+        "useful_prefetches": 0,
+        "timely_prefetches": 0,
+        "total_cache_misses": 0,
+        "covered_misses": 0,
+        "total_accesses": 46,
+        "cache_hits": 0,
+        "total_evictions": 0,
+        "evictions_caused_by_prefetch": 0,
+        "pollution": 0,
+        "inference_calls": 0
+    },
+    "confusion_matrix": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 46,
+        "tn": 954
+    },
+    "classification_metrics": {
+        "accuracy": 0.954,
+        "precision": 0,
+        "recall": 0.0,
+        "f1_score": 0,
+        "specificity": 1.0,
+        "balanced_accuracy": 0.5,
+        "negative_predictive_value": 0.954,
+        "false_positive_rate": 0.0,
+        "false_negative_rate": 1.0
+    },
+    "prefetch_effectiveness": {
+        "coverage": 0.0,
+        "hit_rate": 0.0,
+        "miss_rate": 1.0,
+        "timeliness": 0.0,
+        "overprediction_rate": 0.0,
+        "pollution_rate": 0.0,
+        "prefetch_accuracy": 0
+    },
+    "resources": {
+        "total_prefetch_bytes": 0,
+        "useful_bytes": 0,
+        "bandwidth_overhead_bytes": 0,
+        "bandwidth_overhead_mb": 0.0,
+        "model_size_mb": 0.0,
+        "inference_time_per_prediction_ms": 0.0,
+        "inference_cpu_usage_percent": 0.0,
+        "memory_usage_mb": 0.0
+    },
+    "performance": {
+        "speedup_percent": -22.60543253816661,
+        "cold_time_sec": 0.0,
+        "prefetched_time_sec": 0.0,
+        "cold_time_median_sec": 0.10339549999999996,
+        "prefetched_time_median_sec": 0.1267685
+    }
+}
