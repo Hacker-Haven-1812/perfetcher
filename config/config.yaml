@@ -10,6 +10,6 @@ model:
   learning_rate: 0.001
   seq_length: 40
 system:
-  app_name: firefox
+  app_name: gimp
   collect_runs: 10
-  target_app: firefox
+  target_app: gimp

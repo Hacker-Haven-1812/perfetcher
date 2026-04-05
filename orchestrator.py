@@ -9,8 +9,8 @@ ITERATIONS = 1
 
 apps = [
     #{"app_name": "chrome", "target_app": "google-chrome"},
-    #{"app_name": "gimp", "target_app": "gimp"},
-     {"app_name": "firefox", "target_app": "firefox"}
+    {"app_name": "gimp", "target_app": "gimp"},
+    #{"app_name": "firefox", "target_app": "firefox"}
 ]
 
 # Hyperparameter strategies for improvement across exactly 10 iterations
